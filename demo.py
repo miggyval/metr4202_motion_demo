@@ -12,7 +12,7 @@ v_min, v_max = 0.0, 1.0
 w_min, w_max = -2.0, 2.0
 goals = []
 enable_samples = False
-dist_type = "triangular"
+dist_type = "gaussian"
 
 FONT_SIZE = 0.8
 FONT_THICKNESS = 1
