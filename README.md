@@ -26,7 +26,6 @@ python demo.py
 # Velocity Motion Model
 Recall that the motion model is given by:
 
-
 $$
 \begin{align*}
 x_{1} &= x_{0} - \frac{v}{\omega}\sin{\theta_{0}} + \frac{v}{\omega}\sin{(\theta_{0}+\omega\Delta t)} \\
@@ -34,6 +33,12 @@ y_{1} &= y_{0} - \frac{v}{\omega}\cos{\theta_{0}} - \frac{v}{\omega}\cos{(\theta
 \theta_{1} &= \theta_{0} + \omega\Delta t+\gamma \Delta t
 \end{align*}
 $$
+
+
+---
+
+
+
 
 ---
 
