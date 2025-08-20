@@ -159,7 +159,7 @@ Modes:
 
 Mouse:
   - In Control Space: X = velocity/angular velocity (depending on mode)
-  - In Motion PDF   : move crosshair; in odometry mode, click to set goal
+  - In Motion PDF   : move crosshair; in odometry mode, move to set goal
 """)
 
 while True:
