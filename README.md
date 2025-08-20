@@ -4,9 +4,7 @@ Two-window OpenCV app to **build intuition for mobile robot motion models**.
 - **Motion PDF**: sampled end-poses (colored by final heading).  
 - **Control Space**: move the mouse to set commands/odometry terms.
 
-Default world is normalized to \([-1,1]\times[-1,1]\).
-
-Noise is sampled from a chosen distribution (default: triangular) with tunable \(\alpha\) parameters.
+Noise is sampled from a chosen distribution (default: gaussian) with tunable \(\alpha\) parameters.
 
 ---
 # How to Run
