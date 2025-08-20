@@ -27,6 +27,8 @@ python demo.py
 ---
 # Velocity Motion Model
 Recall that the motion model is given by:
+
+
 $$
 \begin{align*}
 x_{1} &= x_{0} - \frac{v}{\omega}\sin{\theta_{0}} + \frac{v}{\omega}\sin{(\theta_{0}+\omega\Delta t)} \\
