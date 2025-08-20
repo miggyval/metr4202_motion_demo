@@ -44,9 +44,3 @@ $$
 - Distributions: triangular (default), Gaussian (Uniform present in code)
 
 ---
-
-## Install
-
-```bash
-python -m venv .venv && source .venv/bin/activate   # or conda/mamba if you prefer
-pip install numpy opencv-python
